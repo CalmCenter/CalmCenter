@@ -8,7 +8,7 @@
   <a href="https://calmcenter.club/">
     <img src="https://img.shields.io/badge/🔥%20Android-Notes-brightness.svg"
   </a>  
-  <a href=https://github.com/CalmCenter">
+  <a href=https://github.com/CalmCenter>
     <img src="https://komarev.com/ghpvc/?username=CalmCenter&color=brightgreen" />
   </a>  
 </p>
