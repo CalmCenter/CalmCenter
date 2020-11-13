@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github-readme-stats.wasabeef.vercel.app/api?username=CalmCenter&show_icons=true&line_height=21&show_icons=true&theme=vue">
-    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=CalmCenter&show_icons=true&line_height=21&show_icons=true&theme=vue" />
+   https://github-readme-stats.wasabeef.vercel.app/api?username=CalmCenter&show_icons=true&line_height=21&show_icons=true&theme=vue
   </a>
 </p>
 
